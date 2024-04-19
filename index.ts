@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-console.log("wellcome to CodeWithZefi - CLI Number Guessing Game");
+console.log("Wellcome to CodeWithZefi - CLI Number Guessing Game");
 
 // 1. Computer Will generate a random number - DONE
 

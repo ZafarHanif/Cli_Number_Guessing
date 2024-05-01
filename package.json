@@ -1,5 +1,5 @@
 {
-  "name": "zef_cli_number_guessing",
+  "name": "zefi_cli_number_guessing",
   "version": "2.0.1",
   "description": "A simple cli number guessing game with TypeScript, Node.js and Inquirer",
   "main": "index.js",
